@@ -1,3 +1,21 @@
 [submodule "minishell"]
 	path = minishell
 	url = git@github.com:LeonorTu/minishell.git
+[submodule "miniRT"]
+	path = miniRT
+	url = git@github.com:LeonorTu/miniRT.git
+[submodule "cpp_modules"]
+	path = cpp_modules
+	url = git@github.com:LeonorTu/cpp_modules.git
+[submodule "Philosophers"]
+	path = Philosophers
+	url = git@github.com:LeonorTu/Philosophers.git
+[submodule "push_swap"]
+	path = push_swap
+	url = git@github.com:LeonorTu/push_swap.git
+[submodule "so_long"]
+	path = so_long
+	url = git@github.com:LeonorTu/so_long.git
+[submodule "pipex"]
+	path = pipex
+	url = git@github.com:LeonorTu/pipex.git
