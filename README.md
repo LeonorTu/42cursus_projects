@@ -22,7 +22,7 @@ You can find more information about Hive and 42 on the [Hive official website](h
       <td colspan="2"><strong> Graphics 🖼️ </strong></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/LeonorTu/so_long">so_long</a></td>
+      <td><a href="https://github.com/LeonorTu/so_long">So_long</a></td>
       <td><code>graphics library</code> <code>3D to 2D projection</code> <code>events</code></td>
     </tr>
     <tr>
@@ -52,7 +52,7 @@ You can find more information about Hive and 42 on the [Hive official website](h
       <td><code>shell</code> <code>process</code></td>
     </tr>
     <tr>
-      <td>Pipex</td>
+      <td><a href="https://github.com/LeonorTu/pipex">Pipex</td>
       <td><code>pipe</code></td>
     </tr>
     <tr>
